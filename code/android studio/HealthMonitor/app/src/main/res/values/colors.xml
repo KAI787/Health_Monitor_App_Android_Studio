@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_blue">#44CDC5</color>
+    <color name="main_text_color">#333333</color>
+    <color name="gray_default_dark">#666666</color>
+    <color name="weak">#8BC34A</color>
+    <color name="normal">#1fa62e</color>
+    <color name="bitmore">#e70a57</color>
+    <color name="more">#971920</color>
+    <color name="obese">#e30a15</color>
+    <color name="doctor">#ff0400</color>
+</resources>

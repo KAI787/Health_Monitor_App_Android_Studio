@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Health Monitor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="reset">Reset Steps</string>
+    <string name="sensitivity">Sensitivity:</string>
+    <string name="target">Your Target:</string>
+    <string name="step">Step Count...</string>
+    <string name="ticker">You have a notification!</string>
+    <string name="title">Congratulations!</string>
+    <string name="content">You have completed your goal!</string>
+    <string name="bodymass">Body Mass Index</string>
+    <string name="calorie">BURN CALORIES?</string>
+    <string name="length">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="sex">Sexuality:</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="idealweight">Ideal:</string>
+    <string name="status">Status:</string>
+    <string name="weak">You\'re weak.</string>
+    <string name="normal">Normal panties here.</string>
+    <string name="bitmore">More than normal weight.</string>
+    <string name="more">Overweight.</string>
+    <string name="obese">Sorry, you\'re obese.</string>
+    <string name="doctor">Need to doctor treatment.</string>
+    <string name="nonstep">You should take a little more steps!</string>
+    <string name="sport">Let\'s do sports!</string>
+    <string name="burned">Burned:</string>
+    <string name="nothere">You weren\'t here but I walked this:</string>
+    <string name="extra">Bravo! You have taken an extra </string>
+    <string name="steps"> steps!</string>
+</resources>
